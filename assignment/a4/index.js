@@ -159,3 +159,12 @@ console.log("12*7:", 12 * 7);
 console.log("12*8:", 12 * 8);
 console.log("12*9:", 12 * 9);
 console.log("12*10:", 12 * 10);
+// hi
+let year1 = 2024;
+let yeardays = 365;
+if (year1 = yeardays) {
+    console.log(`$[year1] is not leap year`);
+}
+else {
+    console.log(`$[year1] is leap year`);
+}
